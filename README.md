@@ -1,7 +1,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/oormazdam/assets/main/profile_banner.svg" alt="Anime Recommendation System Banner" />
+  <img src="https://raw.githubusercontent.com/oormazdam/assets/main/Anime-Recommendation-System-Banner.svg" alt="Anime Recommendation System Banner" />
 </p>
 
 <h1 align="center">🎌 Anime Recommendation System</h1>
