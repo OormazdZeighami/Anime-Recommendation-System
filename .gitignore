@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Dataset (you can allow it if small enough)
+*.csv
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+
+# Virtual environment
+venv/
