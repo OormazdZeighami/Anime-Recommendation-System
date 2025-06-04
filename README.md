@@ -116,8 +116,6 @@ You are free to use, modify, and distribute this software with attribution.
 
 ## 🔎 GitHub SEO Tips
 
-> To make your GitHub repository more discoverable:
-
 - Use clear and relevant repository name (`Anime-Recommendation-System`)
 - Add proper **topics/tags**:  
   *(e.g.,)* `anime`, `recommendation-system`, `python`, `content-based-filtering`, `machine-learning`, `data-science`
